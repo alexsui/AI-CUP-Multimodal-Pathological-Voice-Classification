@@ -24,5 +24,5 @@ AI_CUP_medical.ipynb &rarr; AI_CUP_acoustic.ipynb &rarr; AI_CUP_second-stage.ipy
 ## 得獎證明
 ![image](https://github.com/alexsui/AI-CUP-Multimodal-Pathological-Voice-Classification/assets/53047989/ab457fd0-91a0-41ba-99d3-317aa7210f57)
 ### 競賽報告
-https://drive.google.com/file/d/1i_BD31kJD0EuuyMv7q26inrYyVwx5yGx/view?usp=sharing
- 
+[https://drive.google.com/file/d/1i_BD31kJD0EuuyMv7q26inrYyVwx5yGx/view?usp=sharing
+](https://drive.google.com/file/d/1L6D3pJE64EOgHOwOQinz7o7bjQ6ftZ5v/view?usp=drive_link) 
